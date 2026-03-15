@@ -1,6 +1,6 @@
 # Real Comic
 
-todo lol
+AI generated, but not AI powered.
 
 ## Characters
 

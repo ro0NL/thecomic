@@ -18,7 +18,7 @@ todo lol
 
 ### Lion
 
-todo lol
+By day a programmer, by zodiac sign a literal lion.
 
 ### Shadow
 
